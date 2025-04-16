@@ -29,8 +29,13 @@ Getting machine learning running inside TouchDesigner can feel overwhelming — 
 
 ## Learn more about TouchDesigner
 Below is a list of my favourite TouchDesigner creators,
+
 [Elekktronaut](https://www.youtube.com/@elekktronaut) - Level 0 tutorials
+
 [PPPANIK](https://www.youtube.com/@pppanik007) - Abstract
+
 [Supermarket Salad](https://www.youtube.com/@supermarketsallad) - Particles
+
 [B2BK](https://www.youtube.com/@b2bk) - This one is a hidden gem
+
 [The Interactive & Immersive HQ](https://www.youtube.com/@TheInteractiveImmersiveHQ) - Interactive
