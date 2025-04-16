@@ -39,3 +39,5 @@ Below is a list of my favourite TouchDesigner creators,
 [B2BK](https://www.youtube.com/@b2bk) - This one is a hidden gem
 
 [The Interactive & Immersive HQ](https://www.youtube.com/@TheInteractiveImmersiveHQ) - Interactive
+
+[Torin Blankensmith](https://www.youtube.com/@blankensmithing) - MediaPipe
